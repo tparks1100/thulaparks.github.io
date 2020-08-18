@@ -13,6 +13,13 @@ body {
   color: #5a656e;
 }
 
+.icon {
+  color: #d43076;
+  font-size: 5rem;
+  /* border-style: solid;
+  border-spacing: inherit; */
+}
+
 a {
   color: #d43076;
 }
@@ -310,8 +317,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-bg.jpg") top center;
-  background-size: cover;
+  background: url("../img/Headshot.jpg") top center;
+  background-size: auto;
   padding: 0 15px;
 }
 
@@ -508,7 +515,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/meditate.jpg") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
